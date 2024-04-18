@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 08.04.2024
 
 ## AIM:
 
@@ -53,7 +53,8 @@
 
 
 ## Output:
-"C:\Users\admin\Desktop\empd exp1.jpg"
+![empd exp1](https://github.com/varshinidevaraju/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870750/e72e344c-5dc7-4178-9531-67e0a7d82cdd)
+
 
 ### Name:D.Varshini
 ### Register Number: 212223230234
